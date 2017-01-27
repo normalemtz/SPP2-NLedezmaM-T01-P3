@@ -16,6 +16,8 @@ public class SPP2NLedezmaMT01P3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //NORMA ALEJANDRA LEDEZMA MARTINEZ (IIS)
+        //A01411460
         System.out.println("Calculadora de distancia entre dos puntos");
         //variables
         double x1, y1, x2, y2;//coordenadas
